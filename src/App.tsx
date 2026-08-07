@@ -279,7 +279,7 @@ export default function App() {
                 </div>
 
                 <a
-                  href="https://github.com/LIN4CRE/SideHustles"
+                  href="https://github.com/DLinacre/SideHustles"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-900/80 hover:bg-slate-800 text-slate-200 border border-slate-700/60 text-xs font-mono font-semibold transition-all hover:scale-105"

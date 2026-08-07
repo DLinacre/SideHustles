@@ -43,7 +43,7 @@
 
 ### 1. Installation
 ```bash
-git clone https://github.com/LIN4CRE/SideHustles.git
+git clone https://github.com/DLinacre/SideHustles.git
 cd SideHustles
 npm install
 ```
