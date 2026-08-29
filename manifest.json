@@ -1,0 +1,6 @@
+{
+  "name": "SideHustles",
+  "short_name": "SideHustles",
+  "start_url": "./",
+  "display": "standalone"
+}
